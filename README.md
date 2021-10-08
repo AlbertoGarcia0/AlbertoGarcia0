@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlbertoGarcia0
-- 👀 I’m interested in WPF, C++, Java
+- 👀 I’m interested in WPF, C#, C++, Java...
 - 📫 How to reach me albertga3000@gmail.com
 
 <!---
