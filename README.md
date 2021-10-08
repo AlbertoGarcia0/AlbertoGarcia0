@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @AlbertoGarcia0
-- 👀 I’m interested in WPF
-- 🌱 I’m currently learning nothing :(
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me @kolsak_
+- 👀 I’m interested in WPF, C++, Java
+- 📫 How to reach me albertga3000@gmail.com
 
 <!---
 AlbertoGarcia0/AlbertoGarcia0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
