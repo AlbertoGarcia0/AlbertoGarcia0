@@ -3,7 +3,7 @@
   <a href="https://twitter.com/kolsak_">Twitter</a>
 </p>
 
-- 👀 I’m interested in WPF, C#, C++, Java...
+- 👀 I’m interested in Python, C#, C++, Java...
 - 📫 How to reach me albertga3000@gmail.com
 
 ## 💻 Programming Languages
