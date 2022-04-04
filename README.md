@@ -1,9 +1,6 @@
 <h3 align="center">👋 Hi, I’m @AlbertoGarcia0</h3>
-<p align="center">
-  <a href="https://twitter.com/kolsak_">Twitter</a>
-</p>
 
-- 👀 I’m interested in Python, C#, C++, Java...
+- 👀 I’m interested in Python, C#, HTML, Java...
 - 📫 How to reach me AlbertoGarciaAparicio0@gmail.com
 
 ## 💻 Programming Languages
