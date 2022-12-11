@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Python, C#, HTML, Java...
 - 📫 How to reach me AlbertoGarciaAparicio0@gmail.com
-- 📄 My personal resume: [CV](www.AlbertoGarcia0.github.io).
+- 📄 My personal resume: [CV](https://AlbertoGarcia0.github.io).
 
 ## 💻 Programming Languages
 
