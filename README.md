@@ -66,8 +66,3 @@ Currently leading a data team and working where data engineering meets generativ
 - **MSc in Business Intelligence and Big Data in Secure Environments**, Universities of Burgos, León and Valladolid
 - **BSc in Computer Engineering (Information Technologies)**, University of Castilla-La Mancha
 
-## 📈 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlbertoGarcia0&show_icons=true&count_private=true&theme=gruvbox" />
-</p>
